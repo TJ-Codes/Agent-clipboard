@@ -1,6 +1,5 @@
 """Sample tools to demonstrate the clipboard system."""
 
-import os
 import logging
 from pathlib import Path
 from typing import Any
